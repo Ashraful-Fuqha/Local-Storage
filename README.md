@@ -18,8 +18,8 @@ This project is a hotel meals ordering system that makes use of local storage. I
 
 ## Solution and Live site 
 
-- Live Site : [Click for website](https://www.github.com/Ashraful-Fuqha/Local-Storage/)
-- Solution : [Click for website](https://ashraful-fuqha.github.io/local-storage/)
+- Live Site : [Click for website](https://ashraful-fuqha.github.io/local-storage/)
+- Solution : [Click for website](https://www.github.com/Ashraful-Fuqha/Local-Storage/)
 
 ## Features
 - Order meals: Users can select meals and add them to their order.
